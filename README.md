@@ -3,9 +3,9 @@
 A visually appealing music player built with Python, CustomTkinter, and Pygame.
 
 ## Features
-- **Modern UI**: Dark/Light mode support with a sleek dashboard.
-- **Audio Engine**: High-quality playback using Pygame.
+- **Audio Engine**: High-quality playback using vlc.
 - **Metadata**: Automatic extraction of Title, Artist, and Duration.
+- **lyrics**: auto tracking lyrucs from https://lrclib.net/.
 - **Controls**: Play/Pause, Next/Previous, Volume, and Progress tracking.
 
 ## Installation
